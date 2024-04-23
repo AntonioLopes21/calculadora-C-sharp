@@ -12,3 +12,4 @@ C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\refint\trabalhodo
 C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.pdb
 C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.genruntimeconfig.cache
 C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\ref\trabalhodotnet.dll
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.sourcelink.json
