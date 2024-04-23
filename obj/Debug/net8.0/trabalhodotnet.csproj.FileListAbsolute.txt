@@ -1,0 +1,14 @@
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\bin\Debug\net8.0\trabalhodotnet.exe
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\bin\Debug\net8.0\trabalhodotnet.deps.json
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\bin\Debug\net8.0\trabalhodotnet.runtimeconfig.json
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\bin\Debug\net8.0\trabalhodotnet.dll
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\bin\Debug\net8.0\trabalhodotnet.pdb
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.AssemblyInfoInputs.cache
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.AssemblyInfo.cs
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.csproj.CoreCompileInputs.cache
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.dll
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\refint\trabalhodotnet.dll
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.pdb
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\trabalhodotnet.genruntimeconfig.cache
+C:\Users\antonio.lopes\Desktop\trabalhodotnet\obj\Debug\net8.0\ref\trabalhodotnet.dll
